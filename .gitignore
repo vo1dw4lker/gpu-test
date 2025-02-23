@@ -1,0 +1,50 @@
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcuserdatad
+*.xcscheme
+*.xcschememanagement
+*.xctest
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+*.xcodeproj/xcshareddata/WorkspaceSettings.xcsettings
+*.xcodeproj/xcshareddata/WorkspaceSettings.xcsettings
+
+# CocoaPods
+Pods/
+Podfile.lock
+*.xcworkspace
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# Carthage
+Carthage/
+Carthage/Build/
+
+# Build generated
+build/
+DerivedData/
+
+# Other
+*.dSYM
+*.hmap
+*.ipa
+*.xcassets/
+*.xcfilelist
+*.xctest
+*.DS_Store
+*.swp
+*.swo
+*.log
+
+# User-specific
+*.moved-aside
+*.pyc
+*.pyo
+*.pyd
+*.sublime-workspace
+*.sublime-project
